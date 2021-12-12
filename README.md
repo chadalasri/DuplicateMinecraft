@@ -1,0 +1,2 @@
+# DuplicateMinecraft
+Minecraft but bad
